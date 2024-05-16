@@ -263,6 +263,15 @@ background-attachment: fixed;
     color: #007bff;
 }
 
+#maps {
+    text-decoration: none;
+    color: #0a94df;
+}
+
+#mapsdi{
+    text-decoration: none;
+    color: #d62222;
+}
 .product {
     width: 250px;
     margin-right: 20px; 
@@ -373,3 +382,8 @@ background-attachment: fixed;
     color: rgb(38, 80, 215);
     text-decoration: none;
 }
+
+@media only screen and (max-width: 768px) {
+    /* Estilos para dispositivos móviles */
+  }
+  
